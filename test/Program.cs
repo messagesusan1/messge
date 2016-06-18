@@ -11,6 +11,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("one,this is my fist wokao,haimeihaoa");
+            //haha,what,are you doding?
             Console.WriteLine("hahaha");
         }
     }
