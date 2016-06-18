@@ -14,6 +14,7 @@ namespace test
             //haha,what,are you doding?
             Console.WriteLine("hahaha");
             //tell me what?
+            Console.WriteLine("kaoyanidayaa");
         }
     }
 }
