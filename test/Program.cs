@@ -16,6 +16,7 @@ namespace test
             //tell me what?
             //fuck?me?
             Console.WriteLine("kaoyanidayaa");
+            //i just test.do not have some talking?
         }
     }
 }
